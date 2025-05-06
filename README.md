@@ -4,7 +4,13 @@ Make sure you make a PR to your own repo's main and not the class' repo!! Otherw
 **Name:** Sanggeon Jung
 **Partner:** None(solo)
 
+## GitHub Pages Links
 
+- [Expose Page (Part 1)](https://TopgeonKR.github.io/Lab5_Starter/expose.html)
+- [Explore Page (Part 2)](https://TopgeonKR.github.io/Lab5_Starter/explore.html)
+
+
+## Questions and Answers
  1) Would you use a unit test to test the “message” feature of a messaging application? Why or why not? For this question, assume the “message” feature allows a user to write and send a message to another user.
 
 - No, I wouldn't use a unit test for the message feature. Sending a message includes many things like typing, clicking a send button, and the message going to another user. It’s not just one small function, so it’s better to test with something bigger like an integration test.
